@@ -2,8 +2,8 @@
   "changes": [
     {
       "file": "art/fe/japanese.loc",
-      "bytes": 60582,
-      "sha256": "84d03adc7ad0ffdb9b8eb4b0abff4c309e0ab65b18906a80298e609cc001f254"
+      "bytes": 60568,
+      "sha256": "fba1ecde5fb090cfd3e37e43f342769ca7675eadb48e0fb844911df3819e3863"
     },
     {
       "file": "art/fe/fonts/northamerican_genevacndn36.res",
