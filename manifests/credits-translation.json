@@ -1,0 +1,589 @@
+{
+  "translated_heading_occurrences": 94,
+  "proper_names": "original spelling preserved",
+  "encoding": "UTF-8, no BOM",
+  "hook_address": "0x800057a0",
+  "hook_bytes": 144,
+  "hook_location": "zero padding in MetroTRK vector table (text0), no new DOL section",
+  "call_sites": [
+    "0x80091168",
+    "0x80091210",
+    "0x80091270",
+    "0x800912e4",
+    "0x80091344",
+    "0x800913ac"
+  ],
+  "cpu_test_unique_lines": 213,
+  "cpu_test_capacities": [
+    1,
+    4,
+    64
+  ],
+  "runtime_verified": false,
+  "changes": [
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 2,
+      "source": "Production Team",
+      "translation": "제작팀"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 5,
+      "source": "Programming",
+      "translation": "프로그래밍"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 29,
+      "source": "Sound Design",
+      "translation": "사운드 디자인"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 39,
+      "source": "Music of NES \"Punch-Out!!\" Arrangement",
+      "translation": "NES 펀치아웃!! 음악 편곡"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 41,
+      "source": "and Additional Music Composition",
+      "translation": "추가 음악 작곡"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 51,
+      "source": "Voice",
+      "translation": "목소리 출연"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 83,
+      "source": "Front End Design and Art",
+      "translation": "메뉴 디자인 및 그래픽"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 91,
+      "source": "Character Art",
+      "translation": "캐릭터 그래픽"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 99,
+      "source": "Environment Art",
+      "translation": "배경 그래픽"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 105,
+      "source": "Special Effects",
+      "translation": "특수 효과"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 111,
+      "source": "Animation",
+      "translation": "애니메이션"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 131,
+      "source": "Technical Art",
+      "translation": "테크니컬 아트"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 137,
+      "source": "Concept Art",
+      "translation": "컨셉 아트"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 147,
+      "source": "Game Design",
+      "translation": "게임 디자인"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 155,
+      "source": "QA Management",
+      "translation": "품질 관리 총괄"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 163,
+      "source": "QA",
+      "translation": "품질 관리"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 177,
+      "source": "Game Directors",
+      "translation": "게임 디렉터"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 185,
+      "source": "Technical Director",
+      "translation": "기술 디렉터"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 191,
+      "source": "Art Director",
+      "translation": "아트 디렉터"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 197,
+      "source": "Audio Director",
+      "translation": "오디오 디렉터"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 203,
+      "source": "Producers",
+      "translation": "프로듀서"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 211,
+      "source": "Special Thanks",
+      "translation": "도움을 주신 분들"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 253,
+      "source": "Additional Work",
+      "translation": "추가 작업"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 288,
+      "source": "CEO",
+      "translation": "최고 경영자"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 294,
+      "source": "President",
+      "translation": "사장"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 300,
+      "source": "Studio General Manager",
+      "translation": "스튜디오 총괄"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 306,
+      "source": "PR Coordinator",
+      "translation": "홍보 담당"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 312,
+      "source": "Office Manager",
+      "translation": "사무실 관리"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 318,
+      "source": "HR Coordinators",
+      "translation": "인사 담당"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 336,
+      "source": "Receptionist",
+      "translation": "안내 담당"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 345,
+      "source": "Executive Producer",
+      "translation": "총괄 프로듀서"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 351,
+      "source": "Producer",
+      "translation": "프로듀서"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 357,
+      "source": "Assistant Producer",
+      "translation": "보조 프로듀서"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 363,
+      "source": "Supervisors",
+      "translation": "감수"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 371,
+      "source": "Coordination",
+      "translation": "코디네이션"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 379,
+      "source": "Coordination Assistant",
+      "translation": "코디네이션 보조"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 385,
+      "source": "Graphic Supervisors",
+      "translation": "그래픽 감수"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 393,
+      "source": "Title Logo Art",
+      "translation": "타이틀 로고 디자인"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 399,
+      "source": "Story Board",
+      "translation": "스토리보드"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 405,
+      "source": "Music of NES \"Punch-Out!!\"",
+      "translation": "NES 펀치아웃!! 음악"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 411,
+      "source": "Technical Support",
+      "translation": "기술 지원"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 419,
+      "source": "UI Supervisors",
+      "translation": "UI 감수"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 427,
+      "source": "Debug Support",
+      "translation": "디버그 지원"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 454,
+      "source": "Project Development",
+      "translation": "프로젝트 개발"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 460,
+      "source": "Business Development",
+      "translation": "사업 개발"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 468,
+      "source": "Special Thanks",
+      "translation": "도움을 주신 분들"
+    },
+    {
+      "file": "art/fe/credits/credits.txt",
+      "line": 481,
+      "source": "Coordination",
+      "translation": "코디네이션"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 2,
+      "source": "Production Team",
+      "translation": "제작팀"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 5,
+      "source": "Programming",
+      "translation": "프로그래밍"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 29,
+      "source": "Sound Design",
+      "translation": "사운드 디자인"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 39,
+      "source": "Music of NES \"Punch-Out!!\" Arrangement",
+      "translation": "NES 펀치아웃!! 음악 편곡"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 41,
+      "source": "and Additional Music Composition",
+      "translation": "추가 음악 작곡"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 51,
+      "source": "Voice",
+      "translation": "목소리 출연"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 119,
+      "source": "Front End Design and Art",
+      "translation": "메뉴 디자인 및 그래픽"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 127,
+      "source": "Character Art",
+      "translation": "캐릭터 그래픽"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 135,
+      "source": "Environment Art",
+      "translation": "배경 그래픽"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 141,
+      "source": "Special Effects",
+      "translation": "특수 효과"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 147,
+      "source": "Animation",
+      "translation": "애니메이션"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 167,
+      "source": "Technical Art",
+      "translation": "테크니컬 아트"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 173,
+      "source": "Concept Art",
+      "translation": "컨셉 아트"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 183,
+      "source": "Game Design",
+      "translation": "게임 디자인"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 191,
+      "source": "QA Management",
+      "translation": "품질 관리 총괄"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 199,
+      "source": "QA",
+      "translation": "품질 관리"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 213,
+      "source": "Game Directors",
+      "translation": "게임 디렉터"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 221,
+      "source": "Technical Director",
+      "translation": "기술 디렉터"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 227,
+      "source": "Art Director",
+      "translation": "아트 디렉터"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 233,
+      "source": "Audio Director",
+      "translation": "오디오 디렉터"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 239,
+      "source": "Producers",
+      "translation": "프로듀서"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 247,
+      "source": "Special Thanks",
+      "translation": "도움을 주신 분들"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 289,
+      "source": "Additional Work",
+      "translation": "추가 작업"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 325,
+      "source": "CEO",
+      "translation": "최고 경영자"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 331,
+      "source": "President",
+      "translation": "사장"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 337,
+      "source": "Studio General Manager",
+      "translation": "스튜디오 총괄"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 343,
+      "source": "PR Coordinator",
+      "translation": "홍보 담당"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 349,
+      "source": "Office Manager",
+      "translation": "사무실 관리"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 355,
+      "source": "HR Coordinators",
+      "translation": "인사 담당"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 373,
+      "source": "Receptionist",
+      "translation": "안내 담당"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 382,
+      "source": "Executive Producer",
+      "translation": "총괄 프로듀서"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 388,
+      "source": "Producer",
+      "translation": "프로듀서"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 394,
+      "source": "Assistant Producer",
+      "translation": "보조 프로듀서"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 400,
+      "source": "Supervisors",
+      "translation": "감수"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 408,
+      "source": "Coordination",
+      "translation": "코디네이션"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 416,
+      "source": "Coordination Assistant",
+      "translation": "코디네이션 보조"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 422,
+      "source": "Graphic Supervisors",
+      "translation": "그래픽 감수"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 430,
+      "source": "Title Logo Art",
+      "translation": "타이틀 로고 디자인"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 436,
+      "source": "Story Board",
+      "translation": "스토리보드"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 442,
+      "source": "Music of NES \"Punch-Out!!\"",
+      "translation": "NES 펀치아웃!! 음악"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 448,
+      "source": "Technical Support",
+      "translation": "기술 지원"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 456,
+      "source": "UI Supervisors",
+      "translation": "UI 감수"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 464,
+      "source": "Debug Support",
+      "translation": "디버그 지원"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 491,
+      "source": "Project Development",
+      "translation": "프로젝트 개발"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 497,
+      "source": "Business Development",
+      "translation": "사업 개발"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 505,
+      "source": "Special Thanks",
+      "translation": "도움을 주신 분들"
+    },
+    {
+      "file": "art/fe/credits/credits_full.txt",
+      "line": 518,
+      "source": "Coordination",
+      "translation": "코디네이션"
+    }
+  ]
+}

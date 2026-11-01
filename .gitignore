@@ -1,0 +1,25 @@
+*.iso
+*.wbfs
+*.rvz
+work/*
+!work/translation/
+build/
+__pycache__/
+
+# Original text dumps and comparison data (do not commit)
+work/translation/source-texts.json
+work/translation/source-texts.tsv
+work/translation/source-by-symbol.json
+work/translation/system-source-texts.json
+work/translation/translated-texts.json
+work/translation/credits-source.json
+manifests/additional-string-candidates.json
+manifests/japanese-edition-text-differences.json
+
+# Release packages (attached to GitHub releases only)
+release/*.zip
+release/R7PJ_KPatch_v*/
+
+# External tools and fonts (see README requirements)
+tools/bin/
+tools/fonts/

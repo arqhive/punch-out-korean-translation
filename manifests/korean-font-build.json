@@ -1,0 +1,22 @@
+[
+  {
+    "source": "work\\jp\\DATA\\files\\art\\fe\\fonts\\northamerican_genevacndn36.res",
+    "output": "work\\font-build\\northamerican_genevacndn36.res",
+    "original_pages": 9,
+    "pages": 9,
+    "glyphs": 801,
+    "added": 703,
+    "bytes": 2388096,
+    "runtime_verified": false
+  },
+  {
+    "source": "work\\jp\\DATA\\files\\art\\fe\\fonts\\northamerican_geo36.res",
+    "output": "work\\font-build\\northamerican_geo36.res",
+    "original_pages": 3,
+    "pages": 3,
+    "glyphs": 880,
+    "added": 700,
+    "bytes": 813632,
+    "runtime_verified": false
+  }
+]

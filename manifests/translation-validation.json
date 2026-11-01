@@ -1,0 +1,14 @@
+{
+  "total": 925,
+  "status_counts": {
+    "preserved_nontranslation": 65,
+    "translated": 756,
+    "translated_profile_template": 27,
+    "shared_translation": 50,
+    "preserved_english_original": 27
+  },
+  "missing": [],
+  "errors": [],
+  "hangul_syllables": 698,
+  "in_game_layout_verified": false
+}

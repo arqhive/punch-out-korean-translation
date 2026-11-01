@@ -1,0 +1,191 @@
+[
+  {
+    "id": "G03167",
+    "method": "imagegen subtitle; original US background via difference mask",
+    "path": "work/image-edits/G03167.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  {
+    "id": "G03184",
+    "method": "imagegen subtitle; original US background via difference mask",
+    "path": "work/image-edits/G03184.png",
+    "size": [
+      256,
+      256
+    ]
+  },
+  {
+    "id": "G03229",
+    "method": "imagegen subtitle; original English logo retained",
+    "path": "work/image-edits/G03229.png",
+    "size": [
+      512,
+      256
+    ]
+  },
+  {
+    "id": "G03275",
+    "method": "imagegen subtitle; original English logo retained",
+    "path": "work/image-edits/G03275.png",
+    "size": [
+      512,
+      256
+    ]
+  },
+  {
+    "id": "G04346",
+    "method": "imagegen subtitle; original English logo retained",
+    "path": "work/image-edits/G04346.png",
+    "size": [
+      192,
+      64
+    ]
+  },
+  {
+    "id": "S0418",
+    "method": "imagegen subtitle; original English logo retained",
+    "path": "work/image-edits/S0418.png",
+    "size": [
+      256,
+      128
+    ]
+  },
+  {
+    "id": "S0422",
+    "method": "imagegen subtitle; original English logo retained",
+    "path": "work/image-edits/S0422.png",
+    "size": [
+      128,
+      64
+    ]
+  },
+  {
+    "id": "G03415",
+    "method": "reuse previously reviewed Korean Wii safety notice; texture aspect conversion",
+    "path": "work/image-edits/G03415.png",
+    "size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "G03416",
+    "method": "reuse previously reviewed Korean Wii safety notice; texture aspect conversion",
+    "path": "work/image-edits/G03416.png",
+    "size": [
+      512,
+      512
+    ]
+  },
+  {
+    "id": "S0042",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0042.png",
+    "size": [
+      136,
+      40
+    ]
+  },
+  {
+    "id": "S0043",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0043.png",
+    "size": [
+      240,
+      64
+    ]
+  },
+  {
+    "id": "S0044",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0044.png",
+    "size": [
+      240,
+      64
+    ]
+  },
+  {
+    "id": "S0045",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0045.png",
+    "size": [
+      424,
+      32
+    ]
+  },
+  {
+    "id": "S0046",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0046.png",
+    "size": [
+      424,
+      32
+    ]
+  },
+  {
+    "id": "S0047",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0047.png",
+    "size": [
+      200,
+      32
+    ]
+  },
+  {
+    "id": "S0048",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0048.png",
+    "size": [
+      200,
+      32
+    ]
+  },
+  {
+    "id": "S0051",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0051.png",
+    "size": [
+      320,
+      64
+    ]
+  },
+  {
+    "id": "S0052",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0052.png",
+    "size": [
+      112,
+      64
+    ]
+  },
+  {
+    "id": "S0053",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0053.png",
+    "size": [
+      112,
+      64
+    ]
+  },
+  {
+    "id": "S0054",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0054.png",
+    "size": [
+      112,
+      64
+    ]
+  },
+  {
+    "id": "S0059",
+    "method": "reuse original Korean Wii HOME texture from owned Chibi-Robo disc",
+    "path": "work/image-edits/S0059.png",
+    "size": [
+      368,
+      40
+    ]
+  }
+]

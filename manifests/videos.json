@@ -1,0 +1,296 @@
+[
+  {
+    "source": "art/movies/attract_gameplay_1.thp",
+    "bytes": 35648128,
+    "fps": 29.969999313354492,
+    "frames": 554,
+    "duration_seconds": 18.485152242000225
+  },
+  {
+    "source": "art/movies/attract_gameplay_2.thp",
+    "bytes": 35235744,
+    "fps": 29.969999313354492,
+    "frames": 555,
+    "duration_seconds": 18.51851894279806
+  },
+  {
+    "source": "art/movies/attract_gameplay_3.thp",
+    "bytes": 37006464,
+    "fps": 29.969999313354492,
+    "frames": 574,
+    "duration_seconds": 19.152486257956912
+  },
+  {
+    "source": "art/movies/attract_tutorial.thp",
+    "bytes": 75336288,
+    "fps": 29.969999313354492,
+    "frames": 1191,
+    "duration_seconds": 39.7397406502207
+  },
+  {
+    "source": "art/movies/credits_starring_boxers.thp",
+    "bytes": 139555264,
+    "fps": 29.969999313354492,
+    "frames": 6460,
+    "duration_seconds": 215.54888715400983
+  },
+  {
+    "source": "art/movies/Intro_Movie.thp",
+    "bytes": 15790944,
+    "fps": 29.969999313354492,
+    "frames": 275,
+    "duration_seconds": 9.175842719404445
+  },
+  {
+    "source": "art/movies/Mac_Retires.thp",
+    "bytes": 36728992,
+    "fps": 29.969999313354492,
+    "frames": 589,
+    "duration_seconds": 19.65298676992443
+  },
+  {
+    "source": "art/movies/montage_AranRyan.thp",
+    "bytes": 17396384,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_AranRyan2.thp",
+    "bytes": 16053696,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_BaldBull.thp",
+    "bytes": 17323712,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_BaldBull2.thp",
+    "bytes": 17128032,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_BearHugger.thp",
+    "bytes": 17282272,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_BearHugger2.thp",
+    "bytes": 17143328,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_DonFlamenco.thp",
+    "bytes": 16015584,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_DonFlamenco2.thp",
+    "bytes": 16536448,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_GlassJoe.thp",
+    "bytes": 16430400,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_GlassJoe2.thp",
+    "bytes": 16631648,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_GreatTiger.thp",
+    "bytes": 16464256,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_GreatTiger2.thp",
+    "bytes": 17818784,
+    "fps": 29.969999313354492,
+    "frames": 249,
+    "duration_seconds": 8.30830849866075
+  },
+  {
+    "source": "art/movies/montage_KidQuick.thp",
+    "bytes": 18204960,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_KidQuick2.thp",
+    "bytes": 17210528,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_KingHippo.thp",
+    "bytes": 17519328,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_KingHippo2.thp",
+    "bytes": 17420128,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_PistonHondo.thp",
+    "bytes": 16670080,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_PistonHondo2.thp",
+    "bytes": 15837280,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_SandMan.thp",
+    "bytes": 16229632,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_SandMan2.thp",
+    "bytes": 15439360,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_SodaPopinski.thp",
+    "bytes": 16985408,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_SodaPopinski2.thp",
+    "bytes": 16374048,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_SuperMachoMan.thp",
+    "bytes": 17003168,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_SuperMachoMan2.thp",
+    "bytes": 17110784,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_Training.thp",
+    "bytes": 17638656,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_VonKaiser.thp",
+    "bytes": 17106144,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/montage_VonKaiser2.thp",
+    "bytes": 15489408,
+    "fps": 29.969999313354492,
+    "frames": 250,
+    "duration_seconds": 8.341675199458585
+  },
+  {
+    "source": "art/movies/nlgintrowide.thp",
+    "bytes": 13038432,
+    "fps": 29.969999313354492,
+    "frames": 450,
+    "duration_seconds": 15.015015359025453
+  },
+  {
+    "source": "art/movies/Tutorial_Detailed.thp",
+    "bytes": 197949504,
+    "fps": 29.969999313354492,
+    "frames": 3072,
+    "duration_seconds": 102.50250485094709
+  },
+  {
+    "source": "art/movies/victory_major.thp",
+    "bytes": 43347968,
+    "fps": 29.969999313354492,
+    "frames": 670,
+    "duration_seconds": 22.355689534549008
+  },
+  {
+    "source": "art/movies/victory_major2.thp",
+    "bytes": 56046688,
+    "fps": 29.969999313354492,
+    "frames": 890,
+    "duration_seconds": 29.696363710072564
+  },
+  {
+    "source": "art/movies/victory_minor.thp",
+    "bytes": 41244832,
+    "fps": 29.969999313354492,
+    "frames": 670,
+    "duration_seconds": 22.355689534549008
+  },
+  {
+    "source": "art/movies/victory_minor2.thp",
+    "bytes": 49625984,
+    "fps": 29.969999313354492,
+    "frames": 780,
+    "duration_seconds": 26.026026622310788
+  },
+  {
+    "source": "art/movies/victory_world.thp",
+    "bytes": 49816512,
+    "fps": 29.969999313354492,
+    "frames": 780,
+    "duration_seconds": 26.026026622310788
+  },
+  {
+    "source": "art/movies/victory_world2.thp",
+    "bytes": 34787328,
+    "fps": 29.969999313354492,
+    "frames": 615,
+    "duration_seconds": 20.52052099066812
+  }
+]

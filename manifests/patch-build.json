@@ -1,0 +1,157 @@
+{
+  "changes": [
+    {
+      "file": "art/fe/japanese.loc",
+      "bytes": 60582,
+      "sha256": "84d03adc7ad0ffdb9b8eb4b0abff4c309e0ab65b18906a80298e609cc001f254"
+    },
+    {
+      "file": "art/fe/fonts/northamerican_genevacndn36.res",
+      "bytes": 2388096,
+      "sha256": "7a1a5423c1c9159e47e7b2e80defc61d7a1b4e69290cf1db48e8d7aff9ed42c1"
+    },
+    {
+      "file": "art/fe/fonts/northamerican_geo36.res",
+      "bytes": 813632,
+      "sha256": "55b6190b6e2b5cf35d9fbec5d89eb5e0e3efc4386deba97162fdb65726721a97"
+    },
+    {
+      "file": "art/movies/attract_tutorial.thp",
+      "bytes": 75336288,
+      "sha256": "8ca6ddd9c753889d60f9c27eb726accf70604a88bc42c338f6c8f039166e1a8d"
+    },
+    {
+      "file": "art/movies/Intro_Movie.thp",
+      "bytes": 15790944,
+      "sha256": "361ee30e8a7931cf2341f3361817cd7c19cb9e324f6af00d2bebb049e7fc65c5"
+    },
+    {
+      "file": "art/movies/Tutorial_Detailed.thp",
+      "bytes": 197949504,
+      "sha256": "cdb9dd61d7e5ff75dbc88721566166e0f7f0a912c8b413f77ed034fec1b7db2c"
+    },
+    {
+      "file": "HomeButton2/home.csv",
+      "bytes": 4584,
+      "sha256": "f954f9f3487ccf30fbbf827fe4b96b96fd2f7ac632baaf968b2c62946df6f8d5"
+    },
+    {
+      "file": "HomeButton2/home_nosave.csv",
+      "bytes": 3216,
+      "sha256": "6f8ae9cc849b9e19c38f7f7163ff27ef81e6c2234fba0124cb21e859c62ef667"
+    },
+    {
+      "file": "art/fe/febundlefrontend_res.data",
+      "bytes": 5298248,
+      "sha256": "ca5accbb025fc00b1ecddec56eb24fbd997b7133bdbbb52c2ec444b3104498ad"
+    },
+    {
+      "file": "art/fe/febundleglobal_res.data",
+      "bytes": 6307948,
+      "sha256": "0fc802ed5749122fcf163b7b42c2c35b7579247cadbf101a07ffa681b61000b5"
+    },
+    {
+      "file": "art/NIS/Transitions/punchout_wipe.data",
+      "bytes": 294196,
+      "sha256": "e53c84883d509107cebfce4ff417dabc1e73626fb884b0a467c75f8e11768f73"
+    },
+    {
+      "file": "art/fe/eu_banner.tpl",
+      "bytes": 24640,
+      "sha256": "94a836601e0cd0b4a44ac181dc5fd6cab9d844c0b8d6414ff2cf184b8f82fc8d"
+    },
+    {
+      "file": "art/fe/us_banner.tpl",
+      "bytes": 24640,
+      "sha256": "94a836601e0cd0b4a44ac181dc5fd6cab9d844c0b8d6414ff2cf184b8f82fc8d"
+    },
+    {
+      "file": "art/fe/streaming/jp_strapa_jp.data",
+      "bytes": 178212,
+      "sha256": "397a79ace4bbb92cb380ee900e4d26a70dbf1c3923d90e9791780e6103aecf1d"
+    },
+    {
+      "file": "art/fe/streaming/jp_strapb_jp.data",
+      "bytes": 178212,
+      "sha256": "abd08d7774159768d2b5107d654c6667b47fd858fd4451f4648265f80a03b59c"
+    },
+    {
+      "file": "HomeButton2/homeBtn.arc",
+      "bytes": 399072,
+      "sha256": "5cd614903b76c263b836f85ea1e4e9ea74b029b9fef15f52d24b61a6c44083f8"
+    },
+    {
+      "file": "opening.bnr",
+      "bytes": 398136,
+      "sha256": "57794028290c4914f6a0bb3c0769c2149ac4b51bac1d77890dbb3e036f5ab6dc"
+    }
+  ],
+  "image_writes": [
+    {
+      "id": "G03167",
+      "file": "art/fe/febundlefrontend_res.data",
+      "offset": 1035552,
+      "mips": 1,
+      "size_unchanged": true
+    },
+    {
+      "id": "G03184",
+      "file": "art/fe/febundlefrontend_res.data",
+      "offset": 1569056,
+      "mips": 1,
+      "size_unchanged": true
+    },
+    {
+      "id": "G03229",
+      "file": "art/fe/febundlefrontend_res.data",
+      "offset": 4285728,
+      "mips": 1,
+      "size_unchanged": true
+    },
+    {
+      "id": "G03275",
+      "file": "art/fe/febundleglobal_res.data",
+      "offset": 846848,
+      "mips": 1,
+      "size_unchanged": true
+    },
+    {
+      "id": "G04251",
+      "file": "art/NIS/Transitions/punchout_wipe.data",
+      "offset": 12288,
+      "mips": 1,
+      "size_unchanged": true
+    },
+    {
+      "id": "G04340",
+      "file": "art/fe/eu_banner.tpl",
+      "offset": 64,
+      "mips": 1,
+      "size_unchanged": true
+    },
+    {
+      "id": "G04346",
+      "file": "art/fe/us_banner.tpl",
+      "offset": 64,
+      "mips": 1,
+      "size_unchanged": true
+    },
+    {
+      "id": "G03415",
+      "file": "art/fe/streaming/jp_strapa_jp.data",
+      "offset": 2048,
+      "mips": 7,
+      "size_unchanged": true
+    },
+    {
+      "id": "G03416",
+      "file": "art/fe/streaming/jp_strapb_jp.data",
+      "offset": 2048,
+      "mips": 7,
+      "size_unchanged": true
+    }
+  ],
+  "nloc_roundtrip": true,
+  "originals_modified": false,
+  "runtime_verified": false
+}
